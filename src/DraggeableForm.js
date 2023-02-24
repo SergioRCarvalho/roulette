@@ -16,7 +16,7 @@ const FormularioTexto = () => {
     },
     {
       id: uuidv4(),
-      text: "You Win"
+      text: "You Win!!"
     },
     {
       id: uuidv4(),
